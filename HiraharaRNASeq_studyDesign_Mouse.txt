@@ -1,0 +1,13 @@
+sample	treatment	path	
+mRNA_WT_nc_3d_rpt1_99	ms_tcr_3d	"/Volumes/JHD Flow/Hunter Lab Bioinformatics/Hirahara STAT1-3 RNASeq/classProjectHiraharaMs/SRR1786527"
+mRNA_WT_IL27_3d_rpt1_101	ms_tcrIL27_3d	"/Volumes/JHD Flow/Hunter Lab Bioinformatics/Hirahara STAT1-3 RNASeq/classProjectHiraharaMs/SRR1786529"
+mRNA_WT_nc_3d_rpt2_105	ms_tcr_3d	"/Volumes/JHD Flow/Hunter Lab Bioinformatics/Hirahara STAT1-3 RNASeq/classProjectHiraharaMs/SRR1786530"
+mRNA_WT_IL27_3d_rpt2_107	ms_tcrIL27_3d	"/Volumes/JHD Flow/Hunter Lab Bioinformatics/Hirahara STAT1-3 RNASeq/classProjectHiraharaMs/SRR1786532"
+mRNA_WT_nc_6h_rpt1_1312	ms_tcr_6h	"/Volumes/JHD Flow/Hunter Lab Bioinformatics/Hirahara STAT1-3 RNASeq/classProjectHiraharaMs/SRR1786545"
+mRNA_WT_IL27_6h_rpt1_1314	ms_tcrIL27_6h	"/Volumes/JHD Flow/Hunter Lab Bioinformatics/Hirahara STAT1-3 RNASeq/classProjectHiraharaMs/SRR1786547"
+mRNA_WT_nc_24h_rpt1_1324	ms_tcr_24h	"/Volumes/JHD Flow/Hunter Lab Bioinformatics/Hirahara STAT1-3 RNASeq/classProjectHiraharaMs/SRR1786554"
+mRNA_WT_IL27_24h_rpt1_1326	ms_tcrIL27_24h	"/Volumes/JHD Flow/Hunter Lab Bioinformatics/Hirahara STAT1-3 RNASeq/classProjectHiraharaMs/SRR1786556"
+mRNA_WT_nc_6h_rpt2_1636	ms_tcr_6h	"/Volumes/JHD Flow/Hunter Lab Bioinformatics/Hirahara STAT1-3 RNASeq/classProjectHiraharaMs/SRR1786563"
+mRNA_WT_IL27_6h_rpt2_1638	ms_tcrIL27_6h	"/Volumes/JHD Flow/Hunter Lab Bioinformatics/Hirahara STAT1-3 RNASeq/classProjectHiraharaMs/SRR1786565"
+mRNA_WT_nc_24h_rpt2_1648	ms_tcr_24h	"/Volumes/JHD Flow/Hunter Lab Bioinformatics/Hirahara STAT1-3 RNASeq/classProjectHiraharaMs/SRR1786572"
+mRNA_WT_IL27_24h_rpt2_1650	ms_tcrIL27_24h	"/Volumes/JHD Flow/Hunter Lab Bioinformatics/Hirahara STAT1-3 RNASeq/classProjectHiraharaMs/SRR1786574"
